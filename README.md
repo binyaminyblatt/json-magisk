@@ -1,4 +1,4 @@
-# Magisk Modules Alt Repo
+# My Magisk Repo
 
 This repository stores modules for [MMRL](https://github.com/DerGoogler/MMRL).
 
@@ -7,13 +7,13 @@ To submit your modules, please go to the [submission](https://github.com/Magisk-
 ## Add to MMRL
 
 ```
-https://magisk-modules-alt-repo.github.io/json-v2/
+https://binyaminyblatt.github.io/json-magisk/
 ```
 
 ## Add to MMRL-CLI
 
 ```shell
-mmrl repo add "https://magisk-modules-alt-repo.github.io/json-v2/json/modules.json"
+mmrl repo add "https://binyaminyblatt.github.io/json-magisk/json/modules.json"
 ```
 
 ## Developers
