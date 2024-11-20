@@ -4,7 +4,7 @@
     "support": null,
     "donate": null,
     "submission": null,
-    "base_url": "https://magisk-modules-alt-repo.github.io/json-v2/",
+    "base_url": "https://binyaminyblatt.github.io/json-magisk/",
     "max_num": 6,
     "enable_log": true,
     "log_dir": "log"
