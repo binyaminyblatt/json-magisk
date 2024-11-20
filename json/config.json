@@ -1,9 +1,9 @@
 {
-    "name": "Magisk Modules Alt Repo",
+    "name": "Magisk Tailscaled Repo",
     "website": null,
     "support": null,
     "donate": null,
-    "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
+    "submission": null,
     "base_url": "https://magisk-modules-alt-repo.github.io/json-v2/",
     "max_num": 6,
     "enable_log": true,
